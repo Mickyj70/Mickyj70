@@ -15,7 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://mickyportfolio.netlify.app/](https://mickyportfolio.netlify.app/)
 
+- 💬 Ask me about **react,next,php,node and rust**
+
 - 📫 How to reach me **michael.o.joseph777@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1pRhvu7XShXtv9ZCCMbUjJyzN_dG3PzsYB3o0ZiTn64o/edit?usp=drivesdk](https://docs.google.com/document/d/1pRhvu7XShXtv9ZCCMbUjJyzN_dG3PzsYB3o0ZiTn64o/edit?usp=drivesdk)
+
+- ⚡ Fun fact **I love games and wanted to be an astronaut**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
