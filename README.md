@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm michaael joseph</h1>
-<h3 align="center">A passionate FullStack web3 and mobile app developer</h3>
+<h3 align="center">I'm a passionate FullStack web3, Website and mobile app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mickyj70&label=Profile%20views&color=0e75b6&style=flat" alt="mickyj70" /> </p>
 
@@ -34,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mickyj70&show_icons=true&locale=en&layout=compact" alt="mickyj70" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mickyj70&show_icons=true&locale=en" alt="mickyj70" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mickyj70&" alt="mickyj70" /></p>
